@@ -13,7 +13,6 @@ hooks:
 
 install:
 	cargo install mdbook
-	cargo install mdbook-infisearch
 
 
 s serve:
